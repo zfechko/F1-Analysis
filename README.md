@@ -12,7 +12,7 @@ This repo is a personal project to analyze Formula 1 telemetry data through the 
 - [ ]  May 5-7: :us: Miami Grand Prix
 - [ ]  May 19-21: :italy: Emilia Romagna Grand Prix
 - [ ]  May 26-28: :monaco: Monaco Grand Prix
-- [ ]  June 2-4: :spain: Spanish Grand Prix
+- [ ]  June 2-4: :es: Spanish Grand Prix
 - [ ]  June 16-18: :canada: Canadian Grand Prix
 - [ ]  June 30th - July 2: :austria: Austrian Grand Prix
 - [ ]  July 7-9: :gb: British Grand Prix
