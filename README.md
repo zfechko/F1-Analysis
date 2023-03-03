@@ -10,7 +10,7 @@ This repo is a personal project to analyze Formula 1 telemetry data through the 
 - [ ]  March 31- April 2: :australia: Australian Grand Prix
 - [ ]  April 28-30: :azerbaijan: Azerbaijan Grand Prix
 - [ ]  May 5-7: :us: Miami Grand Prix
-- [ ]  May 19-21: :italy: Emilia Romagna Grand Prix
+- [ ]  May 19-21: :it: Emilia Romagna Grand Prix
 - [ ]  May 26-28: :monaco: Monaco Grand Prix
 - [ ]  June 2-4: :es: Spanish Grand Prix
 - [ ]  June 16-18: :canada: Canadian Grand Prix
@@ -20,7 +20,7 @@ This repo is a personal project to analyze Formula 1 telemetry data through the 
 - [ ]  July 21-23: :hungary: Hungarian Grand Prix
 - [ ]  July 28-30: :belgium: Belgian Grand Prix
 - [ ]  August 25-27: :netherlands: Dutch Grand Prix
-- [ ]  September 1-3: :italy: Italian Grand Prix
+- [ ]  September 1-3: :it: Italian Grand Prix
 - [ ]  September 15-17: :singapore: Singapore Grand Prix
 - [ ]  September 22-24: :jp: Japanese Grand Prix
 - [ ]  October 6-8: :qatar: Qatar Grand Prix
